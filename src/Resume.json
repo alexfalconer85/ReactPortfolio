@@ -1,0 +1,143 @@
+{
+  "summary": [
+    "Full-Stack Web Developer - Falconer Consulting LLC",
+    "Highly motivated and goal oriented Web Developer",
+    "Hands on Experience with web development",
+    "Excellent communication and inter personal skills"
+  ],
+  "personalInfo": {
+    "about": "",
+    "name": "Alex Falconer",
+    "location": "Denver, CO",
+    "github": "https://github.com/alexfalconer85",
+    "linkedIn": "https://www.linkedin.com/in/alexanderefalconer/"
+  },
+  "education": [
+    {
+      "degree": "Full-Stack Developer's Bootcamp",
+      "university": "Denver University",
+      "year": 2020
+    },
+    {
+      "degree": "SQL Developement",
+      "university": "Hands-On Technology Transfer",
+      "year": 2012
+    },
+    {
+      "degree": "Java Development",
+      "university": "Hands-On Technology Transfer",
+      "year": 2012
+    },
+
+    {
+      "degree": "Level III Digital Cartogropher",
+      "university": "ESRI",
+      "year": 2012
+    }
+  ],
+  "projects": [
+    {
+      "heading": "Portfolio",
+      "description": "Personal web portfolio developed using React",
+      "technologies": ["React", "React-Bootstrap", "React-tagcloud", "CSS"],
+      "link": "https://alexfalconer85.github.io/ReactPortfolio/",
+      "screenshot": "https://plaidswan.com/wp-content/uploads/2016/05/creating-perfect-event-websites.png"
+    },
+    {
+      "heading": "Renooster",
+      "description": "Full-CRUD subscription manager",
+      "technologies": ["React", "React-Bootstrap", "CSS"],
+      "link": "https://renooster.herokuapp.com/",
+      "screenshot": "https://plaidswan.com/wp-content/uploads/2016/05/creating-perfect-event-websites.png"
+    },
+    {
+      "heading": "Nav-Grub",
+      "description": "An application that takes your location and finds restaurants near you and plots them on a map",
+      "technologies": [
+        "Material UI",
+        "Google (Geo Code, Maps, Places, Search) APIs",
+        "Open Weather API",
+        "Zamato API",
+        "Firebase NoSQL Database"
+      ],
+      "link": "https://ckaley.github.io/nav-grub/",
+      "screenshot": "https://plaidswan.com/wp-content/uploads/2016/05/creating-perfect-event-websites.png"
+    },
+    {
+      "heading": "Weather",
+      "description": "Dashboard displaying the weather",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "link": "https://alexfalconer85.github.io/Homework-6/",
+      "screenshot": "https://plaidswan.com/wp-content/uploads/2016/05/creating-perfect-event-websites.png"
+    },
+    {
+      "heading": "Note Taker",
+      "description": "A single page web application that allows you to save notes",
+      "technologies": [
+        "Material UI",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "jQuery",
+        "Giph API"
+      ],
+      "link": "https://note-taker-alex85.herokuapp.com/",
+      "screenshot": "https://plaidswan.com/wp-content/uploads/2016/05/creating-perfect-event-websites.png"
+    }
+  ],
+  "skills": [
+    {
+      "value": "jQuery",
+      "count": 25
+    },
+    {
+      "value": "MongoDB",
+      "count": 18
+    },
+    {
+      "value": "JavaScript",
+      "count": 27
+    },
+    {
+      "value": "React",
+      "count": 30
+    },
+    {
+      "value": "Nodejs",
+      "count": 23
+    },
+    {
+      "value": "Express.js",
+      "count": 25
+    },
+    {
+      "value": "HTML5",
+      "count": 38
+    },
+    {
+      "value": "CSS3",
+      "count": 25
+    },
+    {
+      "value": "Express-Handlebar",
+      "count": 22
+    },
+    {
+      "value": "MySQL",
+      "count": 21
+    },
+    {
+      "value": "Git",
+      "count": 30
+    },
+    {
+      "value": "GitHub",
+      "count": 25
+    },
+
+    {
+      "value": "Heroku",
+      "count": 25
+    }
+  ]
+}
