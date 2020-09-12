@@ -37,11 +37,11 @@ class AboutContainer extends Component {
                   <li className='about-self'>
                     Excellent communication and inter personal skills
                   </li>
-                  <li className='about-self' id='hobbies'>
-                    {/* <a href='https://www.linkedin.com/in/alexanderefalconer/'>
+                  {/* <li className='about-self' id='hobbies'>
+                    <a href='https://www.linkedin.com/in/alexanderefalconer/'>
                       Alex's LinkedIn Page
-                    </a> */}
-                  </li>
+                    </a>
+                  </li> */}
                   <li className='about-self' id='hobbies'>
                     Hobbies
                     <span>
