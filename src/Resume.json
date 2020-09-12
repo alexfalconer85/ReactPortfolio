@@ -37,7 +37,7 @@
   ],
   "projects": [
     {
-      "heading": "Portfolio",
+      "heading": "Portfolio Repo",
       "description": "Personal web portfolio developed using React",
       "technologies": ["React", "React-Bootstrap", "React-tagcloud", "CSS"],
       "link": "https://github.com/alexfalconer85/ReactPortfolio",
@@ -45,9 +45,9 @@
     },
     {
       "heading": "Renooster",
-      "description": "Full-CRUD subscription manager",
+      "description": "Full-CRUD subscription manager with budget chart",
       "technologies": ["React", "React-Bootstrap", "CSS"],
-      "link": "https://renooster.herokuapp.com/",
+      "link": "http://renooster-too.herokuapp.com/",
       "screenshot": "https://plaidswan.com/wp-content/uploads/2016/05/creating-perfect-event-websites.png"
     },
     {
@@ -64,6 +64,41 @@
       "screenshot": "https://plaidswan.com/wp-content/uploads/2016/05/creating-perfect-event-websites.png"
     },
     {
+      "heading": "Eat-Da-Burger",
+      "description": "Full-CRUD",
+      "technologies": ["React", "React-Bootstrap", "CSS"],
+      "link": "https://af-eat-da-burger.herokuapp.com/",
+      "screenshot": "https://plaidswan.com/wp-content/uploads/2016/05/creating-perfect-event-websites.png"
+    },
+    {
+      "heading": "Day Planner",
+      "description": "Enter events in a day-planner",
+      "technologies": ["React", "React-Bootstrap", "CSS"],
+      "link": "https://alexfalconer85.github.io/Homework-5-DayPlanner/",
+      "screenshot": "https://plaidswan.com/wp-content/uploads/2016/05/creating-perfect-event-websites.png"
+    },
+    {
+      "heading": "Code Quiz",
+      "description": "Take a coding quiz",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "link": "https://alexfalconer85.github.io/Code-Quiz/",
+      "screenshot": "https://plaidswan.com/wp-content/uploads/2016/05/creating-perfect-event-websites.png"
+    },
+    {
+      "heading": "Budget Tracker",
+      "description": "Track your transactions",
+      "technologies": ["HTML", "JavaScript"],
+      "link": "https://af-budget-tracker-2.herokuapp.com/",
+      "screenshot": "https://plaidswan.com/wp-content/uploads/2016/05/creating-perfect-event-websites.png"
+    },
+    {
+      "heading": "Password Generator",
+      "description": "Full-CRUD subscription manager",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "link": "https://alexfalconer85.github.io/Homework-3/",
+      "screenshot": "https://plaidswan.com/wp-content/uploads/2016/05/creating-perfect-event-websites.png"
+    },
+    {
       "heading": "Weather",
       "description": "Dashboard displaying the weather",
       "technologies": ["HTML", "CSS", "JavaScript"],
@@ -73,14 +108,7 @@
     {
       "heading": "Note Taker",
       "description": "A single page web application that allows you to save notes",
-      "technologies": [
-        "Material UI",
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "jQuery",
-        "Giph API"
-      ],
+      "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
       "link": "https://note-taker-alex85.herokuapp.com/",
       "screenshot": "https://plaidswan.com/wp-content/uploads/2016/05/creating-perfect-event-websites.png"
     }
