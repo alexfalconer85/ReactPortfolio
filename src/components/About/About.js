@@ -38,9 +38,9 @@ class AboutContainer extends Component {
                     Excellent communication and inter personal skills
                   </li>
                   <li className='about-self' id='hobbies'>
-                    <a href='https://www.linkedin.com/in/alexanderefalconer/'>
+                    {/* <a href='https://www.linkedin.com/in/alexanderefalconer/'>
                       Alex's LinkedIn Page
-                    </a>
+                    </a> */}
                   </li>
                   <li className='about-self' id='hobbies'>
                     Hobbies
@@ -50,9 +50,9 @@ class AboutContainer extends Component {
                     <span>
                       <i className='fa fa-music fa-2x' aria-hidden='true' />
                     </span>
-                    <span>
+                    {/* <span>
                       <i className='fa fa-camera fa-2x' aria-hidden='true' />
-                    </span>
+                    </span> */}
                   </li>
                 </ul>
               </div>
